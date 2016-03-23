@@ -1,0 +1,13 @@
+<Template>
+  <ObjectTemplate>
+    <Name>Terrain</Name>
+  </ObjectTemplate>
+  <Render>
+    <MaterialType>detail</MaterialType>
+    <MaterialFlagLighting>false</MaterialFlagLighting>
+    <Terrain>data/terrain/dog-trial-field-heightmap.bmp</Terrain>
+    <Texture0>data/terrain/dog-trial-field.png</Texture0>
+    <ScaleTexture>1 1</ScaleTexture>
+    <Scale>12 12 0.4</Scale>
+  </Render>
+</Template>
